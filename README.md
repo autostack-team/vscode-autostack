@@ -11,7 +11,7 @@ Your favorite debugger [autostack](https://github.com/autostack-team/autostack/)
 
 ## Contributing
 
-For information on how to get started contributing to autostack, see the [contributing guidlines](https://github.com/autostack-team/autostack/blob/master/CONTRIBUTING.md).
+For information on how to get started contributing to autostack, see the [contributing guidlines](https://github.com/autostack-team/vscode-autostack/blob/master/CONTRIBUTING.md).
 
 ## License
 
