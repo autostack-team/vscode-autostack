@@ -2,7 +2,12 @@
 	"name": "autostack",
 	"displayName": "autostack",
 	"description": "A command-line debugging tool for Python projects that automatically displays Stack Overflow answers for thrown errors.",
+	"icon": "icon.png",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/autostack-team/vscode-autostack"
+	},
 	"engines": {
 		"vscode": "^1.40.0"
 	},
