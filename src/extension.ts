@@ -12,8 +12,9 @@ export function activate(context: vscode.ExtensionContext) {
           'autostack',
           'autostack',
           vscode.ViewColumn.Beside,
-          {}
+          {},
         );
+        panel.iconPath = vscode.Uri.file(path.join(context.extensionPath, 'images', 'icon.png'));
       });
 }
 

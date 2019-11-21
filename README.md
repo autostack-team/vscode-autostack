@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/autostack-team/autostack/develop/Logo.png)
+![Logo](https://raw.githubusercontent.com/autostack-team/vscode-autostack/master/images/logo.png)
 
 Your favorite debugger [autostack](https://github.com/autostack-team/autostack/) is now available as a Visual Studio Code extension!
 
